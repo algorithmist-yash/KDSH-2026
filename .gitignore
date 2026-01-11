@@ -1,0 +1,14 @@
+# Virtual env
+venv/
+
+# Data (large files)
+data/novels/
+data/backstories/
+
+# Models / caches
+.cache/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

@@ -1,0 +1,15 @@
+# code/config.yaml
+
+paths:
+  novels_dir: "../data/novels"
+  backstories_dir: "../data/backstories"
+
+chunking:
+  chunk_size: 1000
+  chunk_overlap: 200
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+
+vector_store:
+  index_name: "novel_chunks"

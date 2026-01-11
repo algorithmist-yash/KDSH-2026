@@ -1,0 +1,12 @@
+[
+  {
+    "claim_id": "C1",
+    "claim_text": "...",
+    "evidence": [
+      {
+        "text": "PLACEHOLDER: novel passage related to claim",
+        "relation": "unknown"
+      }
+    ]
+  }
+]

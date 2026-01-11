@@ -1,0 +1,9 @@
+[
+  {
+    "claim_id": "C1",
+    "claim_text": "...",
+    "claim_type": "belief | behavior | event | constraint | motivation",
+    "time_scope": "early_life | adulthood | entire_life",
+    "confidence": "low | medium | high"
+  }
+]
